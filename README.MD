@@ -24,7 +24,8 @@ So I parse the script tag in HTML template.
 
 ## Launch
 
->>> pip install -r requirements.txt
->>> python main.py
+> pip install -r requirements.txt
+>
+> python main.py
 
 
